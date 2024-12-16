@@ -50,8 +50,9 @@ The project has the following core components:
 6. .gitignore
 
 ## App UserInterface
-![Estimate the price of the Property](https://immoeliza.streamlit.app/)
+## Immo Eliza Property Price Estimation
 
+You can access the application here: [Immo Eliza Property Price Estimation](https://immoeliza.streamlit.app)
 
 ## Contributors
 ![Karthika](https://github.com/karthika-elimireddy)
