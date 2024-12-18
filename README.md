@@ -33,7 +33,7 @@ This script will:
 3. Predict the price the property.
 4. Displays the Estimated price in the UI.
 
---- To execute the project: 
+--- To execute the project on the local machine: 
          streamlit run app.py
 
 # Structure
@@ -41,13 +41,15 @@ The project has the following core components:
 
 1. data: is a directory contains data files
     - dataset.csv
-2. pickle: is a directory with pkl files
+2. Logo: is a directory contains data files
+    - logo.jpg
+3. pickle: is a directory with pkl files
     - price_model.pkl
-3. price_model: is a directory with py file
+4. price_model: is a directory with py file
     - price_model.py
-4. app.py  # prediction app file
-5. requirements.txt  #contains list of dependencies for the project.
-6. .gitignore
+5. app.py  # prediction app file
+6. requirements.txt  #contains list of dependencies for the project.
+7. .gitignore
 
 ## App UserInterface
 ## Immo Eliza Property Price Estimation
